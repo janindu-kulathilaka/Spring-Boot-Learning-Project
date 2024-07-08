@@ -15,14 +15,12 @@ public class StudentConfig {
             Student janindu = new Student(
                     "janindu",
                     "janidusandeepa2020@gmail.com",
-                    LocalDate.of(2001, 11, 12),
-                    22
+                    LocalDate.of(2001, 11, 12)
             );
             Student chathumi = new Student(
                     "chathumi",
                     "chathumi.c.f27@gmail.com",
-                    LocalDate.of(2001, 11, 27),
-                    22
+                    LocalDate.of(2001, 11, 27)
             );
 
 
